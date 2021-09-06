@@ -4,7 +4,7 @@
 > I also dabble with UI/UX and graphics/icon design.
 
 ### Known Languages
-- HTML/CSS
+- HTML / CSS
   - Websites
 - JavaScript / TypeScript
   - Full Stack
