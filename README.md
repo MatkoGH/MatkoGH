@@ -1,7 +1,7 @@
 ## Hey there! :wave:
 > I'm Martin, a high school student who's interested in programming. 
 > I have intermediate experience with JavaScript and TypeScript. 
-> I also dabble with UI/UX and graphics/icon design.
+> I also work with UI/UX and icon design.
 
 ### Known Languages
 - HTML / CSS
