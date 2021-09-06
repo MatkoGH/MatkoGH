@@ -4,8 +4,10 @@
 > I also dabble with UI/UX and graphics/icon design.
 
 ### Known Languages
+- HTML/CSS
+  - Websites
 - JavaScript / TypeScript
-  - Front-end + back-end
+  - Full Stack
   - [Discord](https://discord.com/) bots
 - Swift
   - iOS/macOS applications
