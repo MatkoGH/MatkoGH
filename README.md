@@ -1,7 +1,6 @@
 ## Hey there! :wave:
 > I'm Martin, a high school student who's interested in programming. 
-> I have intermediate experience with JavaScript and TypeScript. 
-> I also work with UI/UX and icon design.
+> 
 
 ### Known Languages
 - HTML / CSS
@@ -11,11 +10,10 @@
   - [Discord](https://discord.com/) bots
 - Swift
   - iOS/macOS applications
-- Lua
-  - [Roblox](https://roblox.com/) development
 
 ### Frameworks
-- [Nuxtjs](https://nuxtjs.org/)
+- [Nuxtjs](https://v3.nuxtjs.org/) (v3)
 - [Vue.js](https://vuejs.org/)
 
-#### Examples coming soon...
+### Examples
+- Visit [my website](https://beta.matko.me/).
