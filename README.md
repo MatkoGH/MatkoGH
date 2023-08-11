@@ -1,6 +1,5 @@
-## Hey there! :wave:
-> I'm Martin, a high school student who's interested in programming. 
-> 
+## Hey! :wave:
+> I'm Martin, some random university student who likes to code.
 
 ### Known Languages
 - HTML / CSS
@@ -12,8 +11,8 @@
   - iOS/macOS applications
 
 ### Frameworks
-- [Nuxtjs](https://v3.nuxtjs.org/) (v3)
-- [Vue.js](https://vuejs.org/)
+- [Nuxt](https://nuxt.com/) (v3)
+- [Vue](https://vuejs.org/)
 
 ### Examples
-- Visit [my website](https://beta.matko.me/).
+- Visit [my (currently unfinished) website](https://martinstric.ca/).
